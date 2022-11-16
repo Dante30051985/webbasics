@@ -1,0 +1,10 @@
+body{position:absolute;margin:0px;background:#f31;padding:50px;}
+.numberList{color:white;}
+.markerList{color:orange;font:14pt verdana;}
+	#hyperURLYandex{color:green;font:22pt arial;}
+	#titleDZ{position:relative;width:100%;}
+	#paragraf{position:relative;width:100%;}
+	#blockList{position:relative;width:100%;}
+	#urlYa{position:relative;width:100%;}
+img:hover{width:calc(1000px*2);}
+#titleDZ:hover{color:blue;font:33pt verdana;}
