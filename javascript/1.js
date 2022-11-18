@@ -37,8 +37,9 @@ function AlertTemperature() {
 
 
 //моё решение 
+//функция создания окна для конвертации градусов Целсья в Фаренгейты
 function CreateWindow(x, y) {
-    if (document.getElementById('mainContainer')) {
+    if (document.getElementById('mainContainer')) { //проверим есть ли уже у нас созданное окно? Если да то удалим его
         document.getElementById('mainContainer').remove();
     }
 
